@@ -1,5 +1,7 @@
 # BudgetCalculatorAngular
 
+App created with the intention of studying Angular. All credits are reserved by Devstackr. Link of classes: https://www.youtube.com/watch?v=sU4z4Ti-8OQ&t=2060s
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
 ## Development server
